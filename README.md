@@ -1,3 +1,3 @@
-# firebasedemo
+# Material Tracking & Costing System
 
-A new Flutter project.
+A Flutter-based system for tracking materials and managing costs in manufacturing processes.
